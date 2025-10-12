@@ -2,7 +2,7 @@
 <h3 align="center">A backend enthusiast and CS student diving deep into building scalable systems, AI/ML, and everything in between. .</h3>
 
 
-# If people at Even are seeing this, I am really interested in the role and this marks my efforts towards it. Please consider my request for the same =)
+# If people at Even are seeing this, this marks my efforts towards it.Looking forward to work with you =)
 ### About Me
 -  Pursuing my B.E. in Information Science & Engineering at RVCE, Bengaluru (Expected 2026, CGPA: 9.30) and a concurrent B.S. in Data Science from IIT Madras (CGPA: 9.01).
 -  Working on backend dev with FastAPI and Quarkus, while exploring AI/ML optimizations using PyTorch and Scikit-learn.
